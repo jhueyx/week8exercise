@@ -1,0 +1,8 @@
+/* Style one class to define the height and width, the other to define background-color.*/
+.classa {
+  height: 100px;
+  width: 100px;
+}
+.classb {
+  background-color: blue;
+}
